@@ -1,4 +1,4 @@
-Privacy Policy for WhyBot
+Privacy Policy for HTTV Fanfictic Bot
 
 Last Updated: May 8, 2026
 
@@ -39,7 +39,7 @@ Some data may be temporarily stored to allow WhyBot features to function correct
 
 4. Third-Party Services
 
-WhyBot operates through:
+HTTV Fanfictic Bot operates through:
 
 Discord API
 Hosting providers or databases used by the developer
